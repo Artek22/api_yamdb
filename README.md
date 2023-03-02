@@ -19,7 +19,7 @@ http://127.0.0.1:8000/redoc/
 Клонировать репозиторий, перейти в директорию с проектом.
 
 ```
-git clone git@github.com:sugunos/api_yamdb.git
+git@github.com:Artek22/api_yamdb.git
 ```
 
 Cоздать и активировать виртуальное окружение:
